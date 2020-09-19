@@ -3,4 +3,5 @@ ex1/node_modules/
 ex2/node_modules/
 simple-message/node_modules/
 todo-list/node_modules/
+react-router-tutorial/node_modules/
 .DS_Store
